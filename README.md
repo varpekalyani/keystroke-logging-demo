@@ -12,7 +12,9 @@ using Python.
 - Cybersecurity learning
 - Understanding keylogging concepts
 
-⚠️ This project is strictly for learning and ethical use only.
+## Ethical Notice
+This project is intended strictly for academic learning and cybersecurity awareness.
+It must not be used to violate privacy or security.
 
 ## Technologies Used
 - Python
@@ -22,6 +24,12 @@ using Python.
 The program listens to keyboard events and records the keys pressed
 during execution.
 
+## How to Run
+1. Install dependencies using pip
+2. Run the Python script
+3. Press keys to observe logging behavior
+
 ## Disclaimer
 This project is created for academic and educational purposes only.
 Any misuse of this code is strictly discouraged.
+⚠️ This project is strictly for learning and ethical use only.
