@@ -1,0 +1,1 @@
+Key.space 'i' 's' Key.space 'o' 'k' 'a' 'y' Key.space Key.caps_lock 'n' Key.caps_lock 'o' 'e' Key.backspace 'w' 
